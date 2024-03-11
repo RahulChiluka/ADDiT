@@ -1,0 +1,5 @@
+prompt,classname,classidx
+a photo of a mild demented brain, a stage of Alzheimer's disease.,mild_demented,0
+a photo of a moderate demented brain, a stage of Alzheimer's disease.,moderate_demented,1
+a photo of a very mild demented brain, a stage of Alzheimer's disease.,very_mild_demented,2
+a photo of a non demented brain, a stage of Alzheimer's disease.,non_demented,3

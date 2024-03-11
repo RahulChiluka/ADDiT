@@ -1,0 +1,4 @@
+mild_demented: mild_demented
+moderate_demented: moderate_demented
+very_mild_demented: very_mild_demented
+non_demented: non_demented
